@@ -7,6 +7,7 @@ import android.widget.Toast;
 
 public class DetectandoUsb extends BroadcastReceiver {
     private int bandera=0;
+
     @Override
     public void onReceive(Context context, Intent intent) {
 
